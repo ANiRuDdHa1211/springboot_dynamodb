@@ -4,3 +4,5 @@ spring boot + dynamoDB
 
 link for github repo :
 https://github.com/ANiRuDdHa1211/springboot_dynamodb
+
+this is demo update to check commits
